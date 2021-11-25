@@ -1,0 +1,3 @@
+[submodule "Avalonia.SalesApp"]
+	path = Avalonia.SalesApp
+	url = https://github.com/aboimpinto/Avalonia.SalesApp
